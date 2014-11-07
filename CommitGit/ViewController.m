@@ -43,8 +43,9 @@
 {
    UILabel *label = (UILabel *)[self.view viewWithTag:10001];
 //    label.text = @"变色uuuu";
-    label.text = @"我想跳楼";
+    label.text = @"我我想跳楼想我想跳楼跳我想跳楼楼";
     label.backgroundColor = [UIColor greenColor];
+    
    
 }
 

@@ -416,6 +416,7 @@
 				D7AED7D31A0C8F770072746A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D7AED7D41A0C8F770072746A /* Build configuration list for PBXNativeTarget "CommitGitTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +425,7 @@
 				D7AED7D61A0C8F770072746A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
