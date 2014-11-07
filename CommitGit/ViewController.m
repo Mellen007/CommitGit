@@ -28,8 +28,14 @@
     myLabel.tag = 10001;
     myLabel.text = @"变色";
     
+    //git tag标签的添加
+    UILabel *tagLabel = [[UILabel alloc] initWithFrame:CGRectMake(100, 110, 100, 30)];
+    tagLabel.text = @"Git tag标签";
+    
+    
     [self.view addSubview:myButtton];
     [self.view addSubview:myLabel];
+    [self.view addSubview:tagLabel];
     
     
 }
